@@ -1,0 +1,33 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/object_depth.py",
+            // "program": "${file}",
+            // "program": "${workspaceFolder}/train.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            // "args": [
+            //     "--load_weights_folder","loss/models/weights_39_0.79", //"~/work/wy/DNet-master/old/weights_last_18_002",
+            //     // "--eval_mono","--scaling","gt","--split","uav_yang"//,"--num_layers","18"//"--eval_object",
+            // ]
+
+            // "args":[
+            //     "--model_name","mono_model",
+            //     "--log_dir","./log",
+            // ]
+            
+        }
+    ]
+}
+
+//288 38 351 38 
+
+// Validation/UAV_seq41/image_03/data 0000027811 l
+// myselfTest img0000001 l
